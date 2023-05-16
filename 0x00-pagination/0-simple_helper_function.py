@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 def index_range(page, page_size):
     '''
     Function named index_range that takes two integer 
